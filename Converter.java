@@ -9,8 +9,12 @@ public class Converter {
 		* Name of the third student
 		*
 		*/
-		private double celsiusToFahrenheit(double C){
-		// TODO: The third student will implement this method
+		private double celsiusToFahrenheit(double C)
+		{
+		int f;
+		f = (C*(9/5))+32;
+		return f;
+			
 		return 0;
 		}
 		private double fahrenheitToCelsius(double F){
