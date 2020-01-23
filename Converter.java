@@ -5,9 +5,8 @@ public class Converter {
 		//Your names go here:
 		/*
 		* @Author: Cobe Reinbold
-		* Name of the second student
-		* Name of the third student
-		*
+		* Desiree Leal
+		* Rohit Yeast
 		*/
 		private double celsiusToFahrenheit(double C)
 		{
