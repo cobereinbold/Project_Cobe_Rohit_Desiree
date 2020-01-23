@@ -22,6 +22,12 @@ public class Converter {
 			
 		return 0;
 		}
+	private double kilometersToMiles (double K){
+		return K*0.621371;	
+		
+	}
+	
+	
 		public static void main(String[] args) {
 			celsiusToFahrenheit (13);
 			fahrenheitToCelsius (30);
