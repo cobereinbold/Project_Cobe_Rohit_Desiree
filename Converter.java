@@ -7,7 +7,7 @@ public class Converter {
 		* @Author: Name of the first student
 		* Name of the second student
 		* Name of the third student
-		*
+		*sfgsg
 		*/
 		private double celsiusToFahrenheit(double C){
 		// TODO: The third student will implement this method
